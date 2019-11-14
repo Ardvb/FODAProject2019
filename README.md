@@ -33,14 +33,14 @@ I will keep this part brief as all can be found nicely displayed in the jupyter 
 
 This project is divided in 3 parts:
 
-### - 1. Description
+### 1. Description
 
 In this section I have explained all 7 variables. I have added plots and used descriptive statistics to describe the dataset in detail.
 Variables used in this dataset:
 
 total bill: the total bill 
 
-### - 2. Regression
+### 2. Regression
 
 #### 2.1
 In this section I explain the relationship between total bill and tip. I visualize this relationship using many different plot.
