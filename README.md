@@ -37,6 +37,5 @@ Matplotlib is the plotting library of Numpy. It provides an object-oriented API 
 Pandas is a library providing high-performance, and easily usable data structures and data analysis tools for Python. It is built on top of Numpy, so that means Numpy is required by Pandas. I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 
-
 ## References
 https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
