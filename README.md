@@ -29,6 +29,8 @@ In one restaurant, a food server recorded the following data on all customers th
 ## Quick overview of research
 
 I will keep this part brief as all can be found nicely displayed in the jupyter notebook.
+
+
 This project is divided in 3 parts:
 
 ### - 1. Description
