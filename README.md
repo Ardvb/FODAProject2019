@@ -40,3 +40,30 @@ Pandas is a library providing high-performance, and easily usable data structure
 
 ## References
 https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
+
+References
+How to suppress warnings in Jupyter Notebook: https://exploredatalab.com/how-to-suppress-warnings-in-jupyter-notebook/
+How to count the occurences of a specific value using Pandas: https://stackoverflow.com/questions/35277075/python-pandas-counting-the-occurrences-of-a-specific-value
+How to plot a pie chart using matplotlib: https://pythonspot.com/matplotlib-pie-chart/
+How to count frequency of a value in a column: https://stackoverflow.com/questions/22391433/count-the-frequency-that-a-value-occurs-in-a-dataframe-column/36434248
+How to group data by certain values using Pandas: https://www.geeksforgeeks.org/pandas-groupby/
+How to plot a relplot with Seaborn: https://seaborn.pydata.org/generated/seaborn.relplot.html
+How to plot a lmplot using Seaborn: https://seaborn.pydata.org/generated/seaborn.lmplot.html
+How to generate polyfit using Numpy: https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html
+How to divide two columns in a dataframe: https://stackoverflow.com/questions/36619631/how-to-divide-two-column-in-a-dataframe
+How to select rows between 2 values using pandas: https://stackoverflow.com/questions/31617845/how-to-select-rows-in-a-dataframe-between-two-values-in-python-pandas/40442778
+How to add a title to Seaborn plot: https://stackoverflow.com/questions/29813694/how-to-add-a-title-to-seaborn-facet-plot
+How to plot a bar chart using Matplotlib: https://pythonspot.com/matplotlib-bar-chart/
+How to plot a pairplot using Seaborn: https://seaborn.pydata.org/generated/seaborn.pairplot.html
+How to plot categorical data: https://seaborn.pydata.org/tutorial/categorical.html
+How to use Pandas' .loc function to extract rows https://www.geeksforgeeks.org/python-pandas-extracting-rows-using-loc/
+How to implement a boolean search with multiple columns using Pandas: https://stackoverflow.com/questions/22546425/how-to-implement-a-boolean-search-with-multiple-columns-in-pandas
+
+Videolectures:
+
+Videolecture Ian McLoughlin about best fit line: https://web.microsoftstream.com/video/021a0f49-a019-4119-a08c-7601a9a7d0b5
+Videolecture Ian McLoughlin about using Pandas to calculate descriptive statistics: https://web.microsoftstream.com/video/ecc9ce4a-c6f5-4c50-a4f4-29116fc21b81?referrer=https://learnonline.gmit.ie/course/view.php?id=689
+
+Image: 
+
+
