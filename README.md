@@ -66,4 +66,4 @@ Videolecture Ian McLoughlin about using Pandas to calculate descriptive statisti
 
 Image: 
 
-
+https://www.daddysqueeze.com/tips/
