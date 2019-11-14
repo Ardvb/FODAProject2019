@@ -22,7 +22,10 @@ Follow these steps to download this repository:
 - From the 'home' page, click on the file called 'FODA Assessment 2019.ipynb'
 - For more information on how to use Jupyter Notebook go to the Help section in the toolbar on the top of your screen.
 
-## Background information about the dataset
+## Background information on the dataset
+In one restaurant, a food server recorded the following data on all cus- tomers they served during an interval of two and a half months in early 1990. The restaurant, located in a suburban shopping mall, was part of a national chain and served a varied menu. In observance of local law, the restaurant offered to seat in a non-smoking section to patrons who requested it. Each record includes a day and time, and taken together, they show the server’s work schedule. (Taken from: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset)
 
 
 
+## References
+https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
