@@ -63,6 +63,7 @@ Videolectures:
 
 Videolecture Ian McLoughlin about best fit line: https://web.microsoftstream.com/video/021a0f49-a019-4119-a08c-7601a9a7d0b5
 Videolecture Ian McLoughlin about using Pandas to calculate descriptive statistics: https://web.microsoftstream.com/video/ecc9ce4a-c6f5-4c50-a4f4-29116fc21b81?referrer=https://learnonline.gmit.ie/course/view.php?id=689
+Videolecture Ian McLoughlin on different plot in Python: https://web.microsoftstream.com/video/99500835-4d08-428d-ad17-3cbc62a13550
 
 Images: 
 
