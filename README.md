@@ -1,4 +1,4 @@
-# Fundamentals of Data Analysis Project 2019
+# Fundamentals of Data Analysis Project 2019: Exploring the 'Tips' Dataset
 
 ![j9a7nvxn0g311](https://user-images.githubusercontent.com/47186083/68902160-77069980-072f-11ea-9ea7-cd820b11fe2b.jpg)
 
