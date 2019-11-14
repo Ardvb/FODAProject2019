@@ -26,6 +26,14 @@ Follow these steps to download this repository:
 ## Background information on the dataset
 In one restaurant, a food server recorded the following data on all customers they served during an interval of two and a half months in early 1990. The restaurant, located in a suburban shopping mall, was part of a national chain and served a varied menu. In observance of local law, the restaurant offered to seat in a non-smoking section to patrons who requested it. Each record includes a day and time, and taken together, they show the server’s work schedule. 7 variables were recorded in this dataset: tip, total bill, sex, day, time, size and smoker.  (Partly taken from: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset)
 
+## Quick overview of research
+
+I will keep this part brief as all can be found nicely displayed in the jupyter notebook.
+This project is divided in 3 parts:
+
+### - 1. Description
+
+
 ## Packages used
 
 ### - Numpy 
