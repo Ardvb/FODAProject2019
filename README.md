@@ -23,13 +23,18 @@ Follow these steps to download this repository:
 - For more information on how to use Jupyter Notebook go to the Help section in the toolbar on the top of your screen.
 
 ## Background information on the dataset
-In one restaurant, a food server recorded the following data on all cus- tomers they served during an interval of two and a half months in early 1990. The restaurant, located in a suburban shopping mall, was part of a national chain and served a varied menu. In observance of local law, the restaurant offered to seat in a non-smoking section to patrons who requested it. Each record includes a day and time, and taken together, they show the server’s work schedule. (Taken from: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset)
+In one restaurant, a food server recorded the following data on all customers they served during an interval of two and a half months in early 1990. The restaurant, located in a suburban shopping mall, was part of a national chain and served a varied menu. In observance of local law, the restaurant offered to seat in a non-smoking section to patrons who requested it. Each record includes a day and time, and taken together, they show the server’s work schedule. 7 variables were recorded in this dataset: tip, total bill, sex, day, time, size and smoker.  (Partly taken from: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset)
 
 ## Packages used
 
 ### - Numpy 
+Numpy is a fundamental library for scientific computing in Python. It adds support for large, multi dimensional arrays and matrices. It also includes a large collection of high level mathematical functions to operate on these arrays.
 ### - Seaborn
-
+Seaborn is a Python visualization library based on matplotlib, providing a high-level interface for drawing statistical graphics. I found this library to be easy to use and used it to plot swarmplots and scatterplots.
+### - Matplotlib
+Matplotlib is the plotting library of Numpy. It provides an object-oriented API for embedding plots into applications. I used this library to plot histograms, amongst other things.
+### - Pandas
+Pandas is a library providing high-performance, and easily usable data structures and data analysis tools for Python. It is built on top of Numpy, so that means Numpy is required by Pandas. I have used it to read in the excel file containing the Iris date set, amongst other things.
 
 
 
