@@ -33,6 +33,32 @@ This project is divided in 3 parts:
 
 ### - 1. Description
 
+In this section I have explained all 7 variables. I have added plots and used descriptive statistics to describe the dataset in detail.
+Variables used in this dataset:
+
+total bill: the total bill 
+
+### - 2. Regression
+
+#### 2.1
+In this section I explain the relationship between total bill and tip. I visualize this relationship using many different plot.
+#### 2.2 
+Here I explain the (possible) relationship between total bill and tip percentage
+
+### 3. Analysis
+In this chapter I explain the possible relationships between many different sets of variables.
+#### 3.1
+Plotted some pairplots to have a quick overview of some possibly interesting relationships
+#### 3.2 Correlation between time and (relative) tip size
+#### 3.3 Correlation between day of the week, time of day and (relative) tip size
+#### 3.4 Correlation between size and (relative) tip size
+#### 3.5 Correlation between sex, time, size, total bill and (relative) tip size
+#### 3.6 Correlation between smoking, total bill and (relative) tip size
+#### 3.7 Multiple variables combined: day, total bill, sex and tip
+#### 3.8 Multiple variables combined: Smoker, sex, time and size
+#### 3.9 Conclusions
+A brief summary of my most interesting findings.
+
 
 ## Packages used
 
