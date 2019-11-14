@@ -15,6 +15,7 @@ Follow these steps to download this repository:
 - Click the clone or download button.
 - Save the repository to your device.
 - To run the program open a command interface and navigate to the folder in which the repository was saved.
+- The full 'tips' dataset can be downloaded here: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
 
 ## Running my Jupiter Notebook
 - Navigate to the folder where the repository has been downloaded on the command line.
