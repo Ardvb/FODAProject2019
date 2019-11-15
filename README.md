@@ -22,11 +22,12 @@ Follow these steps to download this repository:
 - The full 'tips' dataset can be downloaded here: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
 ## Jupyter Notebook
 
-I used a Jupyter Notebook to display my work.
+I used a Jupyter notebook to display my work.
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. https://jupyter.org/
 
 
 ## Running my Jupiter Notebook
+- Install Jupyterla. This is part of the Anaconda package, that can be downloaded here: https://www.anaconda.com/distribution/
 - Navigate to the folder where the repository has been downloaded on the command line.
 - typ: Jupyter Notebook
 - From the 'home' page, click on the file called 'FODA Assessment 2019.ipynb'
