@@ -48,13 +48,13 @@ This project is divided in 3 parts:
 In this section I have explained all 7 variables. I have added plots and used descriptive statistics to describe the dataset in detail.
 Variables used in this dataset:
 
-- total bill: the total bill in dollars
-- tip: Tip amount in dollars
-- sex: The gender of the person paying
-- smoker: Was there a smoker at the table?
-- day: What day of the week was it?
-- time: Was it lunch or dinner time?
-- size: Number of people in the party
+- <em>total bill</em>: the total bill in dollars
+- <em>tip</em>: Tip amount in dollars
+- <em>sex</em>: The gender of the person paying
+- <em>smoker</em>: Was there a smoker at the table?
+- <em>day</em>: What day of the week was it?
+- <em>time</em>: Was it lunch or dinner time?
+- <em>size</em>: Number of people in the party
 
 ### 2. Regression
 
