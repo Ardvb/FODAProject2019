@@ -20,6 +20,11 @@ Follow these steps to download this repository:
 - Save the repository to your device.
 - To run the program open a command interface and navigate to the folder in which the repository was saved.
 - The full 'tips' dataset can be downloaded here: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
+## Jupyter Notebook
+
+I used a Jupyter Notebook to display my work.
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. https://jupyter.org/
+
 
 ## Running my Jupiter Notebook
 - Navigate to the folder where the repository has been downloaded on the command line.
@@ -79,9 +84,7 @@ Pandas is a library providing high-performance, and easily usable data structure
 
 
 ## References
-https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
-
-References
+Info on dataset and downloadlink: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
 How to suppress warnings in Jupyter Notebook: https://exploredatalab.com/how-to-suppress-warnings-in-jupyter-notebook/
 How to count the occurences of a specific value using Pandas: https://stackoverflow.com/questions/35277075/python-pandas-counting-the-occurrences-of-a-specific-value
 How to plot a pie chart using matplotlib: https://pythonspot.com/matplotlib-pie-chart/
@@ -98,6 +101,7 @@ How to plot a pairplot using Seaborn: https://seaborn.pydata.org/generated/seabo
 How to plot categorical data: https://seaborn.pydata.org/tutorial/categorical.html
 How to use Pandas' .loc function to extract rows https://www.geeksforgeeks.org/python-pandas-extracting-rows-using-loc/
 How to implement a boolean search with multiple columns using Pandas: https://stackoverflow.com/questions/22546425/how-to-implement-a-boolean-search-with-multiple-columns-in-pandas
+info on Jupyter Notebook: https://jupyter.org/
 
 Videolectures:
 
