@@ -1,6 +1,7 @@
 # Fundamentals of Data Analysis Project 2019: Exploring the 'Tips' Dataset
 
-## Student: Arnoud van Balkom
+
+## Arnoud van Balkom
 
 
 ![tip-jar](https://user-images.githubusercontent.com/47186083/68902310-de244e00-072f-11ea-83c9-0205dbbaf18a.jpg)
