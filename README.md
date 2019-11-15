@@ -84,8 +84,8 @@ Pandas is a library providing high-performance, and easily usable data structure
 
 
 ## References
-Info on dataset and downloadlink: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
-How to suppress warnings in Jupyter Notebook: https://exploredatalab.com/how-to-suppress-warnings-in-jupyter-notebook/
+- Info on dataset and downloadlink: https://www.kaggle.com/ranjeetjain3/seaborn-tips-dataset
+- How to suppress warnings in Jupyter Notebook: https://exploredatalab.com/how-to-suppress-warnings-in-jupyter-notebook/
 How to count the occurences of a specific value using Pandas: https://stackoverflow.com/questions/35277075/python-pandas-counting-the-occurrences-of-a-specific-value
 How to plot a pie chart using matplotlib: https://pythonspot.com/matplotlib-pie-chart/
 How to count frequency of a value in a column: https://stackoverflow.com/questions/22391433/count-the-frequency-that-a-value-occurs-in-a-dataframe-column/36434248
