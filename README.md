@@ -1,10 +1,9 @@
 # Fundamentals of Data Analysis Project 2019: Exploring the 'Tips' Dataset
 
 
-## Author: Arnoud van Balkom
-
-
 ![tip-jar](https://user-images.githubusercontent.com/47186083/68902310-de244e00-072f-11ea-83c9-0205dbbaf18a.jpg)
+
+## Author: Arnoud van Balkom
 
 In this repository you will find my work on the project for the module Fundamentals of Data Analysis at GMIT.
 I have done research on the tips dataset and created a Juputer Notebook with my findings.
