@@ -3,11 +3,11 @@
 
 ![tip-jar](https://user-images.githubusercontent.com/47186083/68902310-de244e00-072f-11ea-83c9-0205dbbaf18a.jpg)
 
-## Author: Arnoud van Balkom
-
 In this repository you will find my work on the project for the module Fundamentals of Data Analysis at GMIT.
 I have done research on the tips dataset and created a Juputer Notebook with my findings.
 First I have described the dataset, then I have looked at the correlation between the total bill and the tip, and in the last section I have looked at the relationships between the other variables.
+
+## Author: Arnoud van Balkom
 
 ## Getting started
 
