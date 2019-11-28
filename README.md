@@ -27,7 +27,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 
 ## Running my Jupiter Notebook
-- Install Jupyterla. This is part of the Anaconda package, that can be downloaded here: https://www.anaconda.com/distribution/
+- Install Jupyterlab. This is part of the Anaconda package, that can be downloaded here: https://www.anaconda.com/distribution/
 - Navigate to the folder where the repository has been downloaded on the command line.
 - type: Jupyter Notebook
 - From the 'home' page, click on the file called 'FODA Assessment 2019.ipynb'
